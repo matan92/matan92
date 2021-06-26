@@ -14,7 +14,7 @@
 <br />
 <br />
 
-📫 How to reach me:
+<p>📫 How to reach me:</p>
 
 [<img align="left" alt="matan92" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  
