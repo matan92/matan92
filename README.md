@@ -1,6 +1,5 @@
 # Hi, I’m Matan Avnon- Software Developer
 
-- 👀 I’m interested in Mobile Devleopment- A new challenge that will let me to express my skills.
 - 🌱 I’m currently RPA Developer and learning Android development
 - ✔️ Skilled in RPA (Robotic process automation), Java, Kotilin, C#, Android Development and Software Development.
 
