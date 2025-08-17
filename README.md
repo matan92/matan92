@@ -1,25 +1,39 @@
-# Hi, I’m Matan Avnon- Software Developer
+Matan Avnon
+Junior Software Developer | Automation Developer | RPA Specialist
 
-- 🌱 I’m currently RPA Developer and learning Android development
-- ✔️ Skilled in RPA (Robotic process automation), Java, Kotilin, C#, Android Development and Software Development.
+Experienced Automation Developer with a strong foundation in C#, Java, and Kotlin. Passionate about writing clean, efficient code and eager to grow into a Junior Software Developer role. Skilled in problem-solving, self-learning, and managing multiple projects simultaneously.
 
-### Languages and Tools:
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-<img align="left" alt="JAVA" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="C#"  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="UiPath"  width="26px" src="https://marketplace.uipath.com/static/favicons/android-chrome-512x512.png" />
+🛠 Skills
+Languages: C#, Java, Kotlin, SQL
 
-<br />
-<br />
+Concepts: OOP, Data Structures, Algorithms
 
-#### Connect with me
+Web: REST API
 
-[<img align="left" alt="matan92" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
- 
-<br />
-<br />
+Tools: Git, IntelliJ, Visual Studio Code, Android Studio
 
-[linkedin]: https://www.linkedin.com/in/matan-avnon-93733115a/
+💼 Experience
+IBM | Automation & Senior RPA Developer (2021 – Present)
 
+Developed and maintained RPA solutions using C#, JavaScript, REST APIs.
 
+Led code reviews and supported junior developers.
+
+Optimized and maintained automation codebases.
+
+Valor Automation Solutions | RPA Developer (2019 – 2021)
+
+Built automation solutions with C# and JavaScript.
+
+Provided technical support and ensured smooth operation of automated processes.
+
+🎓 Education
+B.Sc. in Information Systems
+Yezreel Valley College | 2016 – 2019
+
+📫 Connect with me
+📧 matanavnon@gmail.com
+
+🔗 LinkedIn
+
+💻 GitHub
